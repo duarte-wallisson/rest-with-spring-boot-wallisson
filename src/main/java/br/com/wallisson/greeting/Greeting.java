@@ -1,4 +1,4 @@
-package br.com.wallisson;
+package br.com.wallisson.greeting;
 
 import lombok.*;
 
